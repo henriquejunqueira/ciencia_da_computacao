@@ -10,21 +10,21 @@ public class UtilizarTV {
         t1.aumentarVolume();
         t1.aumentarVolume();
 
-        // t2.defineMarca("LG");
-        // t2.local("COZINHA");
-        // t2.ligar();
-        // t2.aumentarVolume();
+        t2.defineMarca("LG");
+        t2.local("COZINHA");
+        t2.ligar();
+        t2.aumentarVolume();
         t1.aumentarVolume();
 
-        // t2.aumentarVolume();
-        // t2.aumentarVolume();
-        // t2.aumentarVolume();
-        // t2.aumentarVolume();
-        // t2.aumentarVolume();
-        // t2.aumentarVolume();
+        t2.aumentarVolume();
+        t2.aumentarVolume();
+        t2.aumentarVolume();
+        t2.aumentarVolume();
+        t2.aumentarVolume();
+        t2.aumentarVolume();
 
         t1.desligar();
-        // t2.desligar();
+        t2.desligar();
 
     }
 }
